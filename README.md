@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 ## 🚀 About Me
 Fascinated by cybersecurity, I aspire to work in this field. My goal is to be part of a purple team, but I'm quite open to other opportunities, as cybersecurity is a vast, complete, and extremely interesting field.
+
+
 ![Logo](unnamed.png)
-![Logo](https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png)
 ![Logo](téléchargement.png)
 ![Logo](png-transparent-kali-linux-backtrack-linux-distribution-offensive-security-certified-professional-linux-blue-text-logo.png)
 ![Logo](Icons8_flat_linux.svg.png)
