@@ -1,5 +1,5 @@
 ## Hi there, I'm Lisa Crebassa ! 👋
-[![MasterHead](your image link)](your GitHub link)
+[![MasterHead](header.png)](https://github.com/lisacrebassa)
 <!--
 **lisacrebassa/lisacrebassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
