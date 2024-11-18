@@ -25,7 +25,10 @@ Fascinated by cybersecurity, I aspire to work in this field. My goal is to be pa
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lisacrebassa&theme=dark&border_radius=5.6&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
 
