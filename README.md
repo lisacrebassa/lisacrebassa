@@ -24,8 +24,8 @@ Fascinated by cybersecurity, I aspire to work in this field. My goal is to be pa
 ![Logo](919827.png)
 
 ## 🔗 Links
-[![portfolio]()
-[![linkedin]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lisacrebassa&theme=dark&border_radius=5.6&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
