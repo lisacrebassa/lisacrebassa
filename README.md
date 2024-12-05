@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🚀 About Me
-Fascinated by cybersecurity, I aspire to work in this field. My goal is to be part of a purple team, but I'm quite open to other opportunities, as cybersecurity is a vast, complete, and extremely interesting field. My past experiences remains on the field of being a barmaid. Aside from projects directly coming from school, I learn on the side. Currently, I am working on pentestings, and correcting vulnerabilities. 
+ My past experiences remains on the field of being a barmaid. Aside from projects directly coming from school, I learn on the side. Currently, I am working on pentestings, and correcting vulnerabilities. 
 
 
 ![Logo](unnamed.png)
