@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🚀 About Me
- My past experiences remains on the field of being a barmaid. Aside from projects directly coming from school, I learn on the side. Currently, I am working on pentestings, and correcting vulnerabilities. 
+ My past experiences remains on the field of being a barmaid. Aside from projects directly coming from school, I still learn on the side.
 
 
 ![Logo](unnamed.png)
